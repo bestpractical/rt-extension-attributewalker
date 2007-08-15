@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 use lib '/opt/rt3/lib';
-use lib '/Users/falcone/svk/rt/brandeis/rt-3.6.3/lib';
 use Data::Dumper;
 use Getopt::Long;
 my $user_name;
