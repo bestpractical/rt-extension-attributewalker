@@ -9,7 +9,7 @@ use Carp;
 
 =head1 NAME
 
-RT::Extension::AttributeWalker - Examing Attributes of a user
+RT::Extension::AttributeWalker - Examining Attributes of a user
 
 
 =head1 SYNOPSIS
